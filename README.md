@@ -1,24 +1,13 @@
-# README
+# Welcome to my first Blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I'm following the official Rails guide: `[https://guides.rubyonrails.org/getting_started.html](https://guides.rubyonrails.org/getting_started.html)`.
 
-Things you may want to cover:
+## Dependencies
 
-* Ruby version
+The Ruby version used is `2.6.0`.
 
-* System dependencies
+## Launch local server
 
-* Configuration
+First of all you would need to clone or download the GitHub repository. To install all gem just run `bundle install`. You may need to firstly install Xcode if you are using MacOS X, which is available on the Mac App Store.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Then you should be able to run the local server with `rails server`.
