@@ -1,6 +1,6 @@
 # Welcome to my first Blog
 
-I'm following the official Rails guide: `[https://guides.rubyonrails.org/getting_started.html](https://guides.rubyonrails.org/getting_started.html)`.
+I'm following the official Rails guide: [`https://guides.rubyonrails.org/getting_started.html`](https://guides.rubyonrails.org/getting_started.html).
 
 ## Dependencies
 
